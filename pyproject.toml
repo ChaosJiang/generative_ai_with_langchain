@@ -11,7 +11,11 @@ dependencies = [
     "langchain-core>=0.3.64",
     "langchain-google-genai>=2.1.5",
     "langchain-openai>=0.3.21",
+    "langchain-text-splitters>=0.3.8",
     "langgraph>=0.4.8",
     "langsmith>=0.3.45",
+    "pandoc>=2.4",
     "ruff>=0.11.13",
+    "streamlit>=1.49.1",
+    "unstructured>=0.18.15",
 ]
